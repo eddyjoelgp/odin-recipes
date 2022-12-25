@@ -1,0 +1,27 @@
+* {
+    border: 2px solid red;
+  }
+
+h1{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+}
+
+#lasagna{
+
+    height: 200px;
+}
+
+#ul_index{
+    display: flex;
+    justify-content: center;
+}
+
+li{
+    margin: auto;
+}
+
+body{
+    background-color: azure;
+}
